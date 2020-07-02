@@ -6,4 +6,4 @@ Produzido por Caique Nunes.
 
 Estou progredindo e sentindo orgulho de mim mesmo!
 
-Erro commit.
+Repositório remoto e local interligado, agora aprendendo a fazer o commit para o repositório remoto.
